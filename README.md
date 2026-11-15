@@ -11,4 +11,4 @@ Python · PyTorch · Hugging Face · FastAPI · PostgreSQL · TypeScript · Reac
 
 I'm happy to talk about LLM applications, speech AI and model evaluation.
 
-[LinkedIn](https://www.linkedin.com/in/umairtalib/) · [E-mail](mailto:umair.talib99@gmail.com)
+[Website](https://umairtalib.de) · [LinkedIn](https://www.linkedin.com/in/umairtalib/) · [E-mail](mailto:umair.talib99@gmail.com)
